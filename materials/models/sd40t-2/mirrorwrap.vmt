@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/SD40T-2/mirrorwrap"
+	"$translucent" 1
+}

@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"The Total Train Pack"
+	"version"			"1.2"
+	"up_date"			"December 2016"
+	"author_name"			"[GMRC] Carnaxus"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Train maps and models.  Credits go to me for the TRS2006 conversions, Daveh for gm_trainyard and gm_trainyard_small, ElfNet Gaming YT for gm_star_pass, Drumdevil (obviously) for gm_drumdevils_trainworld, rockon6522 for all the tr_trainworld maps and 1gaugeforest, UberBacon for gm_buildersworld, and GiGaBiTe for gm_subterrania_b9."
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dd40ax/main_map_2"
+	"$normalmap" "models/dd40ax/bump_map_2"
+	"$model 1"
+}

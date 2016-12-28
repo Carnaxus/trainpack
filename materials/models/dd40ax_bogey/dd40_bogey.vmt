@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dd40ax_bogey/dd40_bogey"
+	"$bumpmap" "models/dd40ax_bogey/dd40_bogey_bump"
+}

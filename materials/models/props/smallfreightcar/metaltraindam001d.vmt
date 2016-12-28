@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"vehicle/metaltraindam001d"
+	"$surfaceprop"	"metal"
+	"$bumpmap"	"vehicle/metaltraindam001d_normal"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/SD40-2/catwalkgrill-1"
+	"$translucent" 1
+}

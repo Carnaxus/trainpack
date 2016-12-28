@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/GN_F7B/main"
+	"$surfaceprop" "SolidMetal"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roads/RRCross"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.11
+}
